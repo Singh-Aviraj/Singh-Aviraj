@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Sack JAVA Development
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on ...
-- PORTFOLIO--- aviraj-singh.xyz
+- PORTFOLIO--- [aviraj-singh.xyz]{aviraj-singh.xyz}
 - 📫 You can  reach me on singhaviraj6944@gmail.com
 
 
